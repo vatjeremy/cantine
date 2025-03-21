@@ -1,0 +1,63 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "alice.dupont@example.com",
+        "password": "password1",
+        "cagnotte": 50.0,
+        "commandes": [
+          {
+            "plat": "Pâtes Carbonara",
+            "date": "2025-02-26"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "email": "bob.martin@example.com",
+        "password": "password2",
+        "cagnotte": 20.0,
+        "commandes": []
+      },
+      {
+        "id": 3,
+        "email": "charlotte.morel@example.com",
+        "password": "password3",
+        "cagnotte": 0.0,
+        "commandes": []
+      }
+    ],
+    "plats": [
+      {
+        "id": 1,
+        "nom": "Poulet rôti avec légumes",
+        "prix": 10.0
+      },
+      {
+        "id": 2,
+        "nom": "Lasagnes maison",
+        "prix": 8.0
+      },
+      {
+        "id": 3,
+        "nom": "Salade César avec poulet grillé",
+        "prix": 7.0
+      },
+      {
+        "id": 4,
+        "nom": "Pizza Margherita",
+        "prix": 9.0
+      },
+      {
+        "id": 5,
+        "nom": "Tacos au boeuf",
+        "prix": 11.0
+      },
+      {
+        "id": 6,
+        "nom": "Quiche Lorraine",
+        "prix": 8.5
+      }
+    ]
+  }
+  
